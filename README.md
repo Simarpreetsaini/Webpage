@@ -2,7 +2,8 @@ I have made a Webapge with some styling in it....<br>
 Technologies used :<br>
 HTML<br>
 CSS<br>
-Author : Simarpreet Singh Email: harkiratsaini47@gmail.com<br>
+Author : Simarpreet Singh<br>
+Email: harkiratsaini47@gmail.com<br>
 My Github profile -:https://github.com/Simarpreetsaini
 
 Website Link :https://simarpreetsaini.github.io/Webpage/
